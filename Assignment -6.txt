@@ -1,0 +1,15 @@
+LOOKUP Exercises:
+
+1.Find the Category for ProductID PID050.
+2.What is the Price of ProductName Product_25?
+3.Find the SupplierID for ProductID PID086.
+4.What is the StockLevel of ProductID PID010?
+5.What Category does ProductName Product_45 belong to?
+6.Look up the Price for ProductID PID077.
+7.Retrieve the SupplierID for ProductName Product_33.
+8.What is the StockLevel for ProductName Product_99?
+9.Find the ProductName for Category Electronics and Price greater than 500.
+10.Get the Category of the row that contains ProductID PID055.
+11.Find the SupplierID for the row with ProductName Product_88.
+12.Retrieve the Price for the row that lists Category as Food.
+13.What is the StockLevel for the row where SupplierID is SUP11?
